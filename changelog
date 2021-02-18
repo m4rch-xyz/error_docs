@@ -1,0 +1,19 @@
+[ content ]
+	- bad_gateway
+	- bad_request
+	- forbidden
+	- internal_server_error
+	- maintenance
+	- method_not_allowed
+	- not_acceptable
+	- not_found
+	- not_implemented
+	- precondition_failed
+	- proxy_authentication_required
+	- request-uri_too_long
+	- unauthorized
+	- unsupported_media_type
+[ ui ]
+	- added lightmode
+[ fixes ]
+[ misc ]
